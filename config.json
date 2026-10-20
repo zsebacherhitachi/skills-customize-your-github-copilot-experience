@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a book REST API with FastAPI endpoints for reading, creating, updating, and deleting records.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-10-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
