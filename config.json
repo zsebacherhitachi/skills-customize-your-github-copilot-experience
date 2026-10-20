@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Testing with pytest",
+      "description": "Write automated tests for Python functions and FastAPI endpoints using pytest.",
+      "path": "assignments/testing-with-pytest",
+      "dueDate": "2026-10-27",
+      "attachments": [
+        {
+          "name": "Function Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "FastAPI Test App",
+          "file": "book_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
